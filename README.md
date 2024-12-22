@@ -1,16 +1,38 @@
-# tp2
+# TP2 - Application Flutter
 
-A new Flutter project.
+Cette application est un projet de gestion d'articles vestimentaires, développée avec Flutter. Elle inclut des fonctionnalités comme l'authentification, la gestion des articles, et un système de panier.
 
-## Getting Started
+## Fonctionnalités
 
-This project is a starting point for a Flutter application.
+- Authentification des utilisateurs.
+- Ajout et gestion des articles vestimentaires.
+- Affichage des détails des articles.
+- Gestion d'un panier d'achats.
 
-A few resources to get you started if this is your first Flutter project:
+## Structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **`models/`** : Modèles de données.
+- **`screens/`** : Pages principales (connexion, liste, panier, etc.).
+- **`services/`** : Gestion des données et fonctionnalités (Firebase, stockage).
+- **`widgets/`** : Composants réutilisables.
+- **`main.dart`** : Point d'entrée de l'application.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Prérequis
+
+- Flutter installé ([guide d'installation](https://flutter.dev/docs/get-started/install)).
+- Un projet Firebase configuré.
+
+## Installation
+
+1. Clonez le projet :
+   ```bash
+   git clone "https://github.com/Kh-Mehdi/TP2_kheiri_mehdi"
+   ```
+
+## Profile
+
+Mail : Mohamed@gmail.com
+Mdp : 123456
+
+Mail : Mehdi@gmail.com
+Mdp : 123456
