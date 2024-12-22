@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393964697476",
+    "project_id": "tp-flutter-cd82b",
+    "storage_bucket": "tp-flutter-cd82b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393964697476:android:574ef06170fabd0eb04fd1",
+        "android_client_info": {
+          "package_name": "comp.example.tp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT9qitb5JcGhd7fzuR18ysRIChQU_CBjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
